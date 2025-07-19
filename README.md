@@ -1,6 +1,4 @@
-Sure! Here's a simple and clear `README.md` file for a basic calculator project:
 
----
 
 # 🧮 Simple Calculator
 
